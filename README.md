@@ -4,7 +4,7 @@
 💻 In love with coding, gaming & cars (especially F1 cars) <br>
 🏀 I enjoy watching and playing basketball <br>
 
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=dan1soni&hide=stars&show_icons=true&theme=dark" />
+<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=dan1soni&hide=stars&show_icons=true&theme=tokyonight" />
 <br>
 
 ## Languages:
