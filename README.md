@@ -2,6 +2,7 @@
 
 🎓 Software engineering student at [@fit.ba](https://fit.ba/) <br>
 💻 In love with coding, gaming & cars (especially F1 cars) <br>
+
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=dan1soni&hide=stars&show_icons=true&theme=dark" />
 <br>
 
