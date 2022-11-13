@@ -2,7 +2,7 @@
 
 🎓 Software engineering student at [@fit.ba](https://fit.ba/) <br>
 💻 Software Quality Assurance Engineer @ <b>Atlantbh</b> <br>
-🎮 Also in love with gaming & cars (especially F1 cars) <br>
+🎮 Also in love with gaming & cars (especially F1) <br>
 🏀 Fan of basketball <br>
 
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=dan1soni&hide=stars&show_icons=true&theme=tokyonight" />
