@@ -12,4 +12,4 @@
    
  ## Contact:
 
-<img src="https://cdn-icons-png.flaticon.com/512/1384/1384874.png" alt="LinkedIn" width="20" height="20" title="LinkedIn" style="max-width:100%;"> [@dan1soni](https://linkedin.com/in/dan1soni) <br>
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384874.png" alt="LinkedIn" width="20" height="20" title="LinkedIn" style="max-width:100%;"> [@daniscavalic](https://linkedin.com/in/daniscavalic) <br>
