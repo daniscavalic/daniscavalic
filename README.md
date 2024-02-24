@@ -1,7 +1,6 @@
 # Danis Čavalić
 
-🎓 Software engineering student at [@fit.ba](https://fit.ba/) <br>
-💻 Software Quality Assurance Engineer @ <b>Atlantbh</b> <br>
+💻 Software Quality Assurance Automation Engineer <br>
 
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=daniscavalic&hide=stars&show_icons=true&theme=tokyonight" />
 <br>
